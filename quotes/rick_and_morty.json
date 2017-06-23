@@ -8,6 +8,13 @@
       "when": "Season 1, Episode 1"
     },
     {
+      "id": "1x1.002",
+      "who": "Rick",
+      "what": "I don't like it here Morty. I can't abide bureaucracy. I don't like being told where to go and what to do. I consider it a violation. Did you get those seeds all the way up your butt?",
+      "where": "Rick and Morty",
+      "when": "Season 1, Episode 1"
+    },
+    {
       "id": "1x2.001",
       "who": "Snowball",
       "what": "Where are my testicles, Summer? ... Where are my testicles, Summer? They were removed. Where have they gone?",
@@ -50,9 +57,23 @@
       "when": "Season 1, Episode 2"
     },
     {
+      "id": "1x2.007",
+      "who": "Rick",
+      "what": "It's been six hours. Dreams move one... one-hundredth the speed of reality, and dog time is one-seventh human time. So y'know, every day here is like a minute. It's like Inception, Morty, so if it's confusing and stupid, then so is everyone's favorite movie.",
+      "where": "Rick and Morty",
+      "when": "Season 1, Episode 2"
+    },
+    {
       "id": "1x3.001",
       "who": "Poncho",
       "what": "That's right, baby. A lot of people would pay top dollar to decimate the population. I'll take the highest bidder—Al-Qaeda, North Korea, Republicans, shriners, balding men that work out, people on the Internet that are only turned on by cartoons of Japanese teenagers. Anything is better than working for you, you pompous, negligent, iTunes-gift-card-as-a-holiday bonus-giving mother—",
+      "where": "Rick and Morty",
+      "when": "Season 1, Episode 3"
+    },
+    {
+      "id": "1x3.002",
+      "who": "Rick",
+      "what": "Those guys are inside you building a piece of shit, Ethan!! They're inside you building a monument to compromise! Fuck 'em. Fuck those people. Fuck this whole thing, Ethan.",
       "where": "Rick and Morty",
       "when": "Season 1, Episode 3"
     },
